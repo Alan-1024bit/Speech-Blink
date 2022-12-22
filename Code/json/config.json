@@ -1,0 +1,17 @@
+{
+    "predictor":{
+        "path":"../dat/shape_predictor_68_face_landmarks.dat"
+    },
+    "video": {
+        "width" : 450,
+        "frameRate": 30
+        
+    },
+    "EAR": {
+        "Tresholding" : 0.25,
+        "ConsecutiveFrame" : 3
+    },
+    "acao": {
+        "delay" : 15
+    }
+}
